@@ -74,3 +74,6 @@ cargo install --locked wasm-bindgen-cli
 # todo app 만들기
 
 [171229_Rustlang Project: Todo App (Yew Framework and Web Assembly)](https://youtu.be/j8EnB7gkygw)
+
+- 조금더 어려운 예제 
+[Yew Crash Course](https://youtu.be/lmLiMozWNGA)
